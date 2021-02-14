@@ -7,7 +7,7 @@ const TextInput = (props) => {
             fullWidth={true}
             label={props.label}
             margin={"dense"}
-            maltiline={props.multiline}
+            multiline={props.multiline}
             rows={props.rows}
             value={props.value}
             type={props.type}
