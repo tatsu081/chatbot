@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="133740bb-636a-41bf-9b4c-e0e815b0d843" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Forms/TextInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forms/TextInput.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="133740bb-636a-41bf-9b4c-e0e815b0d843" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613120169588</updated>
-      <workItem from="1613120171915" duration="26390000" />
+      <workItem from="1613120171915" duration="26593000" />
     </task>
     <servers />
   </component>
